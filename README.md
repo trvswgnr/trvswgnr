@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Travis</h1>
+<h1 align="center">Hi 👋🏼, I'm Travis</h1>
 <h3 align="center">A seasoned full-stack developer in Portage, Michigan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trvswgnr" alt="trvswgnr" /> </p>
