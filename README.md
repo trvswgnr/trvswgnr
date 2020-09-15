@@ -23,7 +23,13 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html" alt="trvswgnr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html" alt="trvswgnr" />&nbsp;</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true" alt="trvswgnr" /></p>
 
@@ -41,4 +47,5 @@
 
 &nbsp;
 
-![Travis Wagner's WakaTime](https://wakatime.com/share/@trvswgnr/19f86d08-b7e5-4d4a-abbd-b2fc055ce004.png)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
