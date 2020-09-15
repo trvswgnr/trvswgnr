@@ -21,30 +21,9 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html" alt="trvswgnr" />&nbsp;</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html" alt="trvswgnr" />&nbsp;</p>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true" alt="trvswgnr" /></p>
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true" alt="trvswgnr" /></p>
 
 <p align="left">
 <a href="https://codepen.io/trvswgnr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="trvswgnr" height="30" width="30" /></a>&nbsp;&nbsp;
@@ -55,8 +34,6 @@
 <a href="https://instagram.com/trvswgnr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trvswgnr" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/traviswagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="traviswagner" height="30" width="30" /></a>
 </p>
-
-&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trvswgnr" alt="trvswgnr" /> </p>
 
