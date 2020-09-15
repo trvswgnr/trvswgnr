@@ -30,3 +30,5 @@
 <a href="https://instagram.com/trvswgnr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trvswgnr" height="30" width="30" /></a>
 <a href="https://www.behance.net/traviswagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="traviswagner" height="30" width="30" /></a>
 </p>
+
+![Travis Wagner's WakaTime](https://wakatime.com/share/@trvswgnr/19f86d08-b7e5-4d4a-abbd-b2fc055ce004.png)
