@@ -31,7 +31,18 @@
 
 &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true" alt="trvswgnr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true" alt="trvswgnr" /></p>
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
