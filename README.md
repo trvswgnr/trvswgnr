@@ -40,4 +40,11 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
+```text
+PHP          21 hrs 36 mins  ██████████████▒░░░░░░░░░░   56.99 % 
+SCSS         5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Bash         2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript   2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Other        2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
 <!--END_SECTION:waka-->
