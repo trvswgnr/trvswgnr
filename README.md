@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Meat](https://github.com/trvswgnr/meat), a no-nonsense Bash library
 
-- 🌱 I’m currently learning **React** *(again)* and **C++**
+- 🌱 I’m currently learning **Rust**, **React** *(again)* and **C++**
 
 - 👯 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
 
