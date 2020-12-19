@@ -41,7 +41,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js   7 mins          ████████████████████▓░░░░   82.50 % 
-SCSS     1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
