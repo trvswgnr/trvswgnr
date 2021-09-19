@@ -41,6 +41,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   14 hrs 14 mins  █████████████░░░░░░░░░░░░   51.91 % 
+Liquid       6 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+SCSS         3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+JSON         1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
