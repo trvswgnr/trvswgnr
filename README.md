@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://travisaw.com](https://travisaw.com)
 
-- 💬 Ask me about **PHP, WordPress, DevOps, Webpack, Coding Standards, and Music**
+- 💬 Ask me about **PHP, JavaScript, Shopify, WordPress, DevOps, Webpack, Coding Standards, and Music**
 
 - 📫 How to reach me **travis@travisaw.com**
 
