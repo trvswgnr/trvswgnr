@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, JavaScript, Shopify, WordPress, DevOps, Webpack, Coding Standards, and Music**
 
-- 📫 How to reach me **travis@travisaw.com**
+- 📫 Reach me at **travis@travisaw.com**
 
 - ⚡ Fun fact **I play over 10 different musical instruments.**
 
