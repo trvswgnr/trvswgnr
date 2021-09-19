@@ -65,8 +65,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trvswgnr" alt="trvswgnr" /> </p>
 
-&nbsp;
-
+##### This week:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   14 hrs 14 mins  █████████████░░░░░░░░░░░░   51.91 % 
