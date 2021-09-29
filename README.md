@@ -69,10 +69,10 @@
 ##### This week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   24 hrs 15 mins  ██████████▓░░░░░░░░░░░░░░   42.17 % 
-TypeScript   12 hrs 56 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.50 % 
-HTML         8 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-JSON         4 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Vue.js       3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JavaScript   19 hrs 6 mins   ██████████░░░░░░░░░░░░░░░   39.74 % 
+TypeScript   12 hrs 52 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.77 % 
+Vue.js       5 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Liquid       4 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON         3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 <!--END_SECTION:waka-->
