@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋🏼, I'm Travis</h1>
 <h3 align="left">A seasoned full-stack developer in Portage, Michigan.</h3>
 
-- 🔭 I’m currently working on [Meat](https://github.com/trvswgnr/meat), a no-nonsense Bash library
+- 🔭 I’m currently working on [Lightbox for Bootstrap 5](https://github.com/trvswgnr/bs5-lightbox)
 
-- 🌱 I’m currently learning **C++**, **Rust**, and **React** *(again)*
+- 🌱 I’m currently learning **C++** and **Vue 3**
 
 - 👯 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
 
