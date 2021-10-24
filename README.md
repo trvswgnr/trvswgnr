@@ -69,10 +69,6 @@
 ##### This week:
 <!--START_SECTION:waka-->
 ```text
-Vue.js       2 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.32 % 
-JavaScript   1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   35.11 % 
-TypeScript   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-JSON         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Liquid       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Vue.js       14 mins         ████████████████████████▒   97.73 % 
 ```
 <!--END_SECTION:waka-->
