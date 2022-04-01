@@ -70,12 +70,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Liquid           6 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-SCSS             3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Vue.js           3 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-TypeScript       3 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-PHP              3 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+JavaScript       10 hrs 14 mins  ███████░░░░░░░░░░░░░░░░░░   28.63 %
+Liquid           6 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+SCSS             4 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Vue.js           3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+TypeScript       2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Blade Template   1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
