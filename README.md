@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++** and **Vue 3**
 
-- 👯 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
+- 🤝 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
 
 - 👨‍💻 All of my projects are available at [https://travisaw.com](https://travisaw.com)
 
@@ -22,7 +22,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>
