@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏼, I'm Travis</h1>
-<h3 align="left">A seasoned full-stack developer in Portage, Michigan.</h3>
+<h3 align="left">A seasoned full-stack developer in Kalamazoo, Michigan.</h3>
 
 - 🔭 I’m currently working on [Lightbox for Bootstrap 5](https://github.com/trvswgnr/bs5-lightbox)
 
