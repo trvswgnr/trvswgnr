@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lightbox for Bootstrap 5](https://github.com/trvswgnr/bs5-lightbox)
 
-- 🌱 I’m currently learning **C++** and **Vue 3**
+- 🌱 I’m currently learning **React Native** and **Python**
 
 - 🤝 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **PHP, JavaScript, Shopify, WordPress, DevOps, Webpack, Coding Standards, and Music**
 
-- 📫 Reach me at **travis@travisaw.com**
+- 📫 Reach me at **dev@travisaw.com**
 
-- ⚡ Fun fact **I play over 10 different musical instruments.**
+- ⚡ **Fun fact:** I play over 10 different musical instruments.
 
 &nbsp;
 ###### Tools I Use:
