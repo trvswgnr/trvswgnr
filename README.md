@@ -65,11 +65,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trvswgnr" alt="trvswgnr" /> </p>
 
-##### This week:
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
