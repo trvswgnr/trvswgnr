@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React Native** and **Python**
 
-- 🤝 I’m looking to collaborate on [Quark CMS](https://github.com/trvswgnr/quark-cms)
+- 🤝 I’m looking to collaborate on anything.
 
-- 👨‍💻 All of my projects are available at [https://travisaw.com](https://travisaw.com)
+- 👨‍💻 More info is available at [https://travisaw.com](https://travisaw.com)
 
 - 💬 Ask me about **PHP, JavaScript, Shopify, WordPress, DevOps, Webpack, Coding Standards, and Music**
 
