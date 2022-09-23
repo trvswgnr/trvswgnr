@@ -49,7 +49,7 @@
 
 &nbsp;
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html" alt="trvswgnr" />&nbsp;</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvswgnr&layout=compact&hide=html&langs_count=10" alt="trvswgnr" />&nbsp;</p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=trvswgnr&show_icons=true&hide=contribs" alt="trvswgnr" /></p>
 
