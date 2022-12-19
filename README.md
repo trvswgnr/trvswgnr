@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lightbox for Bootstrap 5](https://github.com/trvswgnr/bs5-lightbox)
 
-- 🌱 I’m currently learning **React Native** and **Rust**
+- 🌱 I’m currently learning **Audio Plugin Development** and **Rust**
 
 - 🤝 I’m looking to collaborate on anything.
 
