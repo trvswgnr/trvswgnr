@@ -68,10 +68,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   17 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   31.62 %
-Text         10 hrs 20 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-Rust         10 hrs 14 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Other        9 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+JavaScript   19 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   35.87 %
+Text         10 hrs 20 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Other        9 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
 ```
 
 <!--END_SECTION:waka-->
