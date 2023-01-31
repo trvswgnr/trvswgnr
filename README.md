@@ -64,11 +64,3 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trvswgnr" alt="trvswgnr" /> </p>
-
-<!--START_SECTION:waka-->
-
-```text
-Other        19 hrs 6 mins   ████████████████▒░░░░░░░░   65.40 %
-```
-
-<!--END_SECTION:waka-->
