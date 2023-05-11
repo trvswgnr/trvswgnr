@@ -15,4 +15,4 @@ i'm trav
 </pre>
 </div>
 
-i've also been known to make [music](https://listen.justfendz.com)
+i've also been known to make [**music**](https://listen.justfendz.com)
