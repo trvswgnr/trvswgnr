@@ -5,7 +5,7 @@ i'm trav
 <pre>
 - i work at <a href="https://www.universalmusic.com">universal music</a>
 &nbsp;
-- head of forking at <a href="https://github.com/crablang/crab">crablang</a>
+- head of forking @ <a href="https://github.com/crablang/crab">crablang</a>
 &nbsp;
 - streaming bad code live on <a href="https://twitch.tv/techsavvytravvy">twitch</a>
 &nbsp;
