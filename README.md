@@ -16,3 +16,5 @@ i'm trav
 </div>
 
 i've also been known to make [**music**](https://listen.justfendz.com)
+
+<img src="https://komarev.com/ghpvc/?username=trvswgnr&label=profile+views&color=ff0c00&style=flat">
