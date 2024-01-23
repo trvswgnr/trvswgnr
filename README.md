@@ -18,3 +18,5 @@ i'm trav
 i've also been known to make [**music**](https://listen.justfendz.com)
 
 <img src="https://komarev.com/ghpvc/?username=trvswgnr&label=profile+views&color=ff0c00&style=flat">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=trvswgnr&hide=liquid,html,scss,stylus,blade,css,shell,batchfile,dockerfile&theme=gruvbox&show_icons=true&layout=compact">
