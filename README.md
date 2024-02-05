@@ -17,6 +17,14 @@ i'm trav
 
 i've also been known to make [**music**](https://listen.justfendz.com)
 
+### want to help me do more open-source work?
+
+[SPONSOR ME 😊](https://github.com/sponsors/trvswgnr)
+
+i'm always making new things in an attempt to make our lives a little easier as developers
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=trvswgnr&label=profile+views&color=ff0c00&style=flat">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trvswgnr&hide=liquid,html,scss,stylus,blade,css,objective-c,batchfile,dockerfile,javascript&theme=gruvbox&show_icons=true&layout=compact&hide_title=true">
