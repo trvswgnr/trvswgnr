@@ -3,7 +3,7 @@
 i'm trav
 <div>
 <pre>
-- i work at <a href="https://www.universalmusic.com">universal music</a>
+- i work at <a href="https://crunchyroll.com">crunchyroll</a>
 &nbsp;
 - head of forking at <a href="https://github.com/crablang/crab">crablang</a>
 &nbsp;
@@ -15,7 +15,7 @@ i'm trav
 </pre>
 </div>
 
-i've also been known to make [**music**](https://listen.justfendz.com)
+i've also been known to make [**music**]([https://listen.justfendz.com](https://open.spotify.com/artist/2buda3WQO8N9DEkmNItRWC))
 
 ### want to help me do more open-source work?
 
