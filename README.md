@@ -15,7 +15,7 @@ i'm trav
 </pre>
 </div>
 
-i've also been known to make [**music**]([https://listen.justfendz.com](https://open.spotify.com/artist/2buda3WQO8N9DEkmNItRWC))
+i've also been known to make [**music**](https://open.spotify.com/artist/2buda3WQO8N9DEkmNItRWC)
 
 ### want to help me do more open-source work?
 
